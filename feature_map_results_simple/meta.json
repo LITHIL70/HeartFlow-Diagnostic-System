@@ -1,0 +1,15 @@
+{
+  "classes": [
+    "F",
+    "N",
+    "Q",
+    "SVEB",
+    "VEB"
+  ],
+  "image_shape": [
+    17,
+    11,
+    1
+  ],
+  "n_features_used": 32
+}
