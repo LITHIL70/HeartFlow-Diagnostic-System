@@ -1,0 +1,10 @@
+
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+
+
+
+
+
+.\venv\Scripts\Activate.ps1
