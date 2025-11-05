@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+           F       0.90      0.45      0.60        80
+           N       0.98      0.98      0.98      9008
+           Q       0.00      0.00      0.00         2
+        SVEB       0.84      0.61      0.70       278
+         VEB       0.81      0.93      0.87       701
+
+    accuracy                           0.96     10069
+   macro avg       0.71      0.59      0.63     10069
+weighted avg       0.96      0.96      0.96     10069
